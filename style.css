@@ -32,7 +32,7 @@ body{
     border-bottom-left-radius: 1rem;
     box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
     --tw-shadow-color: #09090b
-    /* border:solid 1px #fff; */
+    
 }
 #first span{
     color: transparent;
@@ -50,7 +50,7 @@ body{
     border-bottom-left-radius: 1rem;
     box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.25);
     --tw-shadow-color: #09090b
-    /* border:solid 1px #fff; */
+    
 }
 .b-section{
     display:flex;
@@ -409,7 +409,6 @@ hr{
         height: 450px;
         padding-left: 0;
         overflow: hidden;
-        border: solid 2px white;
     }
     p{
         width: 200px;
